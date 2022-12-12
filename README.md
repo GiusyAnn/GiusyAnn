@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sabato-nocera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/giusy-annunziata/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://www.instagram.com/_giusy_a_/' target="_blank">
     <img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white'/>        
   </a>  
@@ -18,6 +18,24 @@
 </div>
 
 
+<!-- RESUME -->
+
+<h1></h1>
+
+<details open>
+  <summary>📃 Resume</summary>
+
+## Education
+
+
+- 📖 **Master's Degree**\
+  📆 18/12/2020 - 16/12/2022\
+  📍 **University of Salerno** - Salerno, Italy
+- 📖 **Bachelor Degree**\
+  📆 15/09/2017 - 17/12/2020\
+  📍 **University of Salerno** - Salerno, Italy
+
+  
 <!--
 **GiusyAnn/GiusyAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
