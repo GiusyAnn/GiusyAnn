@@ -28,8 +28,12 @@
 
 ## Work Experience
 
+- 📖 **Ph.D. Student**\
+  📆 01/11/2023\
+  📍 **University of Salerno** - Salerno, Italy
+
 - 📖 **Research Assistant**\
-  📆 01/04/2023\
+  📆 01/04/2023 — 30/09/2023\
   📍 **University of Salerno** - Salerno, Italy
 
 ## Education
